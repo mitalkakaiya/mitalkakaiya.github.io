@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Personal | Mital Kakaiya]]></title>
+  <link href="http://mitalkakaiya.github.io/blog/category/personal/atom.xml" rel="self"/>
+  <link href="http://mitalkakaiya.github.io/blog/"/>
+  <updated>2014-03-28T11:25:22+11:00</updated>
+  <id>http://mitalkakaiya.github.io/blog/</id>
+  <author>
+    <name><![CDATA[Mital Kakaiya]]></name>
+    <email><![CDATA[mital@kakaiya.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[About Me]]></title>
+    <link href="http://mitalkakaiya.github.io/blog/about-me/"/>
+    <updated>2014-03-25T16:10:43+11:00</updated>
+    <id>http://mitalkakaiya.github.io/blog/about-me</id>
+    <content type="html"><![CDATA[<h3>WHO ARE YOU?</h3>
+
+<p>I&rsquo;m Mital Kakaiya, and am living in Melbourne, Australia.</p>
+
+<h3>WORK EXPERIENCE?</h3>
+
+<p>I am working as Technical Lead / Senior Software Developer in financial/accounting field. I have over 10+ years of experience in enterprise application development using Microsoft tools and technologies. Expert in .NET Framework, C#, VB.NET, ASP.NET, WCF, WPF, XML, SQL Server, Windows Azure (Cloud). Extensive experience in financial, accounting &amp; ERP projects. Also, I have acquired Microsoft Certified Solution Developer (MCSD) for .NET Framework.</p>
+
+<h3>EDUCATION?</h3>
+
+<p>I have always been fascinated by computers, and since I was in school I knew I would end up in a career working with them. I completed my degree in Electronics and learnt internals of computer processors and their CPU activities to process instructions given by programming languages. To enhance my career in the computing field, I completed Master of Engineering in Information Technology from RMIT University, Melbourne.</p>
+
+<h3>WHY BLOG?</h3>
+
+<p>I read lots of books, programming blogs and technical articles daily, which helps me to learn new skills and explore ideas. I think this blog will help me to improve my skills further by sharing my thoughts &amp; knowledge to everyone, and hopefully it will help others too. Also, Writing a blog entry is a challenge for me and a commitment to myself to keep thinking, questioning, and finding new insights that are worth sharing.</p>
+
+<h3>DISCLAIMER:</h3>
+
+<p>The opinions expressed herein are my own personal opinions and do not represent my employer&rsquo;s view in any way. All content provided on this blog is for informational purposes only.</p>
+
+<h3>WHERE CAN I FIND YOU?</h3>
+
+<p>Feel free to send me an email at <a href="&#109;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#109;&#105;&#116;&#97;&#x6c;&#64;&#107;&#x61;&#x6b;&#97;&#105;&#121;&#97;&#46;&#x63;&#x6f;&#109;">&#109;&#x69;&#x74;&#97;&#x6c;&#x40;&#x6b;&#97;&#107;&#97;&#105;&#x79;&#97;&#x2e;&#x63;&#111;&#x6d;</a> or tweet me on <a href="https://twitter.com/TwitException">@TwitException</a>. I can&rsquo;t promise I&rsquo;ll respond, but it will always get read.</p>
+]]></content>
+  </entry>
+  
+</feed>

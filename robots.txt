@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://mitalkakaiya.github.io/blog/sitemap.xml 

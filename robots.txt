@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://mitalkakaiya.github.io/blog/sitemap.xml 
+Sitemap: http://mital.kakaiya.com/sitemap.xml 

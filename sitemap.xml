@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://mitalkakaiya.github.io/blog/about-me/</loc>
+        <loc>http://mital.kakaiya.com/about-me/</loc>
         <lastmod>2014-03-28T11:16:34+11:00</lastmod>
     </url>
     <url>
-        <loc>http://mitalkakaiya.github.io/blog/blog/archives/</loc>
+        <loc>http://mital.kakaiya.com/blog/archives/</loc>
         <lastmod>2014-03-28T11:16:34+11:00</lastmod>
     </url>
     <url>
-        <loc>http://mitalkakaiya.github.io/blog/</loc>
+        <loc>http://mital.kakaiya.com/</loc>
         <lastmod>2014-03-28T11:16:34+11:00</lastmod>
     </url>
     <url>
-        <loc>http://mitalkakaiya.github.io/blog/robots.txt</loc>
+        <loc>http://mital.kakaiya.com/robots.txt</loc>
         <lastmod>2014-03-26T17:41:52+11:00</lastmod>
     </url>
 </urlset>
